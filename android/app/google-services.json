@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359810306649",
+    "firebase_url": "https://clambi-default-rtdb.firebaseio.com",
+    "project_id": "clambi",
+    "storage_bucket": "clambi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359810306649:android:945c008cbb56cdf1f5d748",
+        "android_client_info": {
+          "package_name": "com.example.clambi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359810306649-7o9d0pnc8jssh7aba5huqkvpi3c5rken.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72fHT0XMJWlJN2_5LlEFxuoq5Q70R6ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359810306649-7o9d0pnc8jssh7aba5huqkvpi3c5rken.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

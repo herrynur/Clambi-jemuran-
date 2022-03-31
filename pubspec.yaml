@@ -1,0 +1,35 @@
+name: clambi
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0-222.0.dev <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+  intl: ^0.17.0
+  salomon_bottom_bar: ^3.3.0
+  firebase_database: ^9.0.8
+  firebase_core: ^1.13.1
+  page_transition: ^2.0.5
+  animated_splash_screen: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - image/wp.jpg
+    - image/wp2.jpg
+    - image/wp22.png
+    - image/logo.png
+  
